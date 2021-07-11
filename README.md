@@ -25,8 +25,9 @@
 
 ### Statistics:
 
-[![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula)]
-[![github stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula)]
-[![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)
+[![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula)([Profile])]
+[![github stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula)([Profile])]
+[![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)([Profile])]
 
 [webdevplaylist]: https://jareer.xyz/
+[Profile]: https://github.com/jareer12
