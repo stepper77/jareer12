@@ -37,9 +37,9 @@ Hey, I'm a 14 year old javascript developer & this is my github profile, everyth
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)
 ![Roblox Stat Card](https://canvas.jareer12.repl.co/user/card/1877006416?theme=blue)
 
-<p align="center">
+<h3 align="center">
   Graph Chart
-</p>
+</h3>
 
 ![Graph Chart](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)
 
