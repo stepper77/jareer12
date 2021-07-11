@@ -35,7 +35,7 @@ Hey, I'm a 14 year old javascript developer & this is my github profile, everyth
 ![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula)
 ![github stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula)
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)
-![My Activity Board](https://activity-graph.herokuapp.com/graph?username=jareer12&theme=dracula)
+![Roblox Stat Card](https://canvas.jareer12.repl.co/user/card/1877006416?theme=blue)
 
 [webdevplaylist]: https://jareer.xyz/
 [Profile]: https://github.com/jareer12
