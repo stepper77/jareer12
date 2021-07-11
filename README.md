@@ -18,11 +18,12 @@
 [<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="28px" src="https://user-images.githubusercontent.com/57962439/125192751-b6112900-e249-11eb-9c75-5afca9430689.png" />][webdevplaylist]
 [<img align="left" alt="Express.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="28px" src="https://user-images.githubusercontent.com/57962439/125192675-616dae00-e249-11eb-94a2-73decb5bd2ed.png"/>][webdevplaylist]
 [<img align="left" alt="Discord.js" width="28px" src="https://user-images.githubusercontent.com/57962439/125192659-4a2ec080-e249-11eb-8aad-22b2d1bd6668.png" />][webdevplaylist]
 [<img align="left" alt="Sqlite3" width="28px" src="https://user-images.githubusercontent.com/57962439/125192609-0936ac00-e249-11eb-93f8-a58b89debc37.png" />][webdevplaylist]
-[<img align="left" alt="Sqlite3" width="28px" src="https://user-images.githubusercontent.com/57962439/125192637-31bea600-e249-11eb-959e-5ef1d9d265d1.png" />][webdevplaylist]
+[<img align="left" alt="NPM" width="28px" src="https://user-images.githubusercontent.com/57962439/125192637-31bea600-e249-11eb-959e-5ef1d9d265d1.png" />][webdevplaylist]
 
 </br>
 
