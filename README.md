@@ -22,6 +22,7 @@
 [<img align="left" alt="Express.js" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />][webdevplaylist]
 [<img align="left" alt="Discord.js" width="28px" style="border-radius: 50px;" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />][webdevplaylist]
 
+</ br>
 
 ### Statistics:
 
