@@ -1,4 +1,6 @@
 ### Hey there, I'm Jareer - aka [JUB0T](https://jareer.xyz/) 👋
+Hey, I'm a 13 year old javascript developer & this is my github profile, everything you need to know about me is on this page
+
 
 ## I'm a Student & Developer.
 
