@@ -27,6 +27,6 @@
 
 [![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula)]
 [![github stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula)]
-[![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)](https://github.com/jareer12/jareer12)]
+[![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)
 
 [webdevplaylist]: https://jareer.xyz/
