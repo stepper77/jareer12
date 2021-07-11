@@ -2,7 +2,7 @@
 
 ## I'm a Student & Developer.
 
-- 🔭 I'm working on [Rblx-js]() & [Roblox Stat Cards]()!
+- 🔭 I'm working on [Rblx-js](https://github.com/jareer12/Rblx-js) & [Roblox Stat Cards]()!
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fact: Like to do nothing except coding in free time.
 - 🌱 I’m currently learning everything 🤣.
