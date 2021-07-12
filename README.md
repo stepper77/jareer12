@@ -1,10 +1,10 @@
 ### Hey there, I'm Jareer - aka [JUB0T](https://jareer.xyz/) 👋
-Hey, I'm a 14 year old javascript developer & this is my github profile, everything you need to know about me is on this page. Ignore the pfp btw 😄.
+Hey, I'm a javascript developer and a high-school student & this is my github profile, everything you need to know about me is on this page. I like to create stuff like Modules, web apps etc.
 
 
 ## I'm a Student & Developer.
 
-- 🔭 I'm working on [Rblx-js](https://github.com/jareer12/Rblx-js) & [Roblox Stat Cards]()!
+- 🔭 I'm working on [Rblx-js](https://github.com/jareer12/Rblx-js) & [Roblox Stat Cards](https://github.com/jareer12/Roblox-Stat-Cards)!
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fact: Like to do nothing except coding in free time.
 - 🌱 I’m currently learning everything 🤣.
@@ -14,7 +14,7 @@ Hey, I'm a 14 year old javascript developer & this is my github profile, everyth
 </h2> 
 
 [<img align="center" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="center" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="center" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
 [<img align="center" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 [<img align="center" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
