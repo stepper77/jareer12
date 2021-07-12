@@ -44,7 +44,7 @@ Hey, I'm a 14 year old javascript developer & this is my github profile, everyth
 ![Roblox Stat Card](https://canvas.jareer12.repl.co/user/card/1877006416?theme=blue)
 
 <h2 align="center">
-  Graph Chart
+  Chart
 </h2>
 
 ![Graph Chart](https://activity-graph.herokuapp.com/graph?username=jareer12&theme=dracula)
