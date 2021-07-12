@@ -38,10 +38,11 @@ Hey, I'm a 14 year old javascript developer & this is my github profile, everyth
 
 </br>
 
+![Roblox Stat Card](https://user-images.githubusercontent.com/57962439/125298350-576eac80-e328-11eb-8c53-793e6d3d80cd.png)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true&hide_border=true)
 ![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula&hide_title=true&hide_border=true)
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula&hide_title=true&hide_border=true)
-![Roblox Stat Card](https://canvas.jareer12.repl.co/user/card/1877006416?theme=blue)
 
 <h2 align="center">
   Chart
