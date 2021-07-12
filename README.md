@@ -38,16 +38,16 @@ Hey, I'm a 14 year old javascript developer & this is my github profile, everyth
 
 </br>
 
-![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula)
-![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true&hide_border=true)
+![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula&hide_title=true&hide_border=true)
+![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula&hide_title=true&hide_border=true)
 ![Roblox Stat Card](https://canvas.jareer12.repl.co/user/card/1877006416?theme=blue)
 
 <h2 align="center">
   Chart
 </h2>
 
-![Graph Chart](https://activity-graph.herokuapp.com/graph?username=jareer12&theme=dracula)
+![Graph Chart](https://activity-graph.herokuapp.com/graph?username=jareer12&theme=dracula&hide_title=true&hide_border=true)
 
 [webdevplaylist]: https://jareer.xyz/
 [Profile]: https://github.com/jareer12
