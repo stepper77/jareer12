@@ -47,7 +47,7 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
   Chart
 </h2>
 
-![Graph Chart](https://activity-graph.herokuapp.com/graph?username=jareer12&theme=dracula&hide_title=true&hide_border=true)
+![Group Card](https://roblox-stat-cards.jub0t.repl.co/group/card/10014757?theme=dracula&backgroundColor=282a36)
 
 [webdevplaylist]: https://jareer.xyz/
 [Profile]: https://github.com/jareer12
