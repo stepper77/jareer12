@@ -42,12 +42,5 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true&hide_border=true)
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula&hide_title=true&hide_border=true)
 
-<h2 align="center">
-  ROBLOX
-</h2>
-
-![User Card](https://roblox-stat-cards.jub0t.repl.co/user/card/1877006416?theme=dracula&backgroundColor=282a36)
-![Group Card](https://roblox-stat-cards.jub0t.repl.co/group/card/10014757?theme=dracula&backgroundColor=282a36)
-
 [webdevplaylist]: https://jareer.xyz/
 [Profile]: https://github.com/jareer12
