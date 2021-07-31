@@ -4,9 +4,9 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
 
 ## I'm a Student & Developer.
 
-- 🔭 I'm working on [Rblx-js](https://github.com/jareer12/Rblx-js) & [Roblox Stat Cards](https://github.com/jareer12/Roblox-Stat-Cards)!
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fact: Like to do nothing except coding in free time.
+- 🔭 Currently looking for Work/Contribution.
 - 🌱 I’m currently learning everything 🤣.
 
 <h2 align="center">
