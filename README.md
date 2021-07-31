@@ -42,5 +42,7 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true&hide_border=true)
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula&hide_title=true&hide_border=true)
 
+<iframe src="https://jareer.xyz" height="600" width="100%" title="Portfolio Website"></iframe>
+
 [webdevplaylist]: https://jareer.xyz/
 [Profile]: https://github.com/jareer12
