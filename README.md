@@ -38,9 +38,9 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
 
 </br>
 
-![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=dracula&hide_title=true&hide_border=true)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true&hide_border=true)
-![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=dracula&hide_title=true&hide_border=true)
+![Streak Board](https://github-readme-streak-stats.herokuapp.com/?user=jareer12&theme=discord_old_blurple&hide_title=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_title=true&hide_border=true)
+![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=discord_old_blurple&hide_title=true&hide_border=true)
 ![Grepper Stats](https://grepper-cards.jareer12.repl.co/grepper?id=98467&theme=discord_old_blurple)
 
 [webdevplaylist]: https://jareer.xyz/
