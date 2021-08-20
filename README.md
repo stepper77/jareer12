@@ -5,10 +5,9 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
 ## I'm a Student & Developer.
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fact: Like to do nothing except coding in free time.
 - 🔭 Currently looking for Work/Contribution.
-- 🌱 I’m currently learning everything 🤣.
-
+- 📝 Find me on the [discord server](https://discord.gg/9UxXwqpk6K )
+ 
 <h2 align="center">
   Languages and Tools
 </h2> 
