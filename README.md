@@ -37,6 +37,7 @@ Hey, I'm a javascript developer and a high-school student & this is my github pr
 
 </br>
 
+![Code Grepper Pie](http://jub0t.epizy.com/display.php?id=4)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_border=true)
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=discord_old_blurple&hide_border=true)
 ![Grepper Stats](https://grepper-cards.jareer12.repl.co/grepper?id=98467&theme=discord_old_blurple)
