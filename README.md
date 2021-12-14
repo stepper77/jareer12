@@ -1,12 +1,5 @@
 ### Hey there, I'm Jareer - aka [JUB0T](https://jareer.xyz/) 👋
-Hey, I'm a javascript developer and a high-school student & this is my github profile, everything you need to know about me is on this page. I like to create stuff like Modules, web apps etc.
-
-
-## I'm a Student & Developer.
-
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- 🔭 Currently looking for Work/Contribution.
-- 📝 Find me on the [discord server](https://discord.gg/9UxXwqpk6K )
+FullStack Javascript & PHP developer, I create website and discord bots.
  
 <h2 align="center">
   Languages and Tools
