@@ -32,8 +32,6 @@ FullStack Javascript & PHP developer, I create website and discord bots.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jareer12&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_border=true)
 ![My Activity Board](https://github-readme-stats.vercel.app/api/wakatime?username=jub0t&theme=discord_old_blurple&hide_border=true)
-## Grepper Belt
-[![My Grepper Belt](http://grepper.roearn.net/belt.php?user_id=98467)](http://grepper.roearn.net/belt.php?user_id=98467)
 
 [webdevplaylist]: https://jareer.xyz/
 [Profile]: https://github.com/jareer12
