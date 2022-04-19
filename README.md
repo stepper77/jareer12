@@ -3,5 +3,5 @@
 </p>
 <div align="start">
   <a href="https://app.daily.dev/JUB0T"><img src="https://api.daily.dev/devcards/8075953934d5427baeb3f879221dc935.png?r=2x3" width="40%" alt="Jareer Abdullah's Dev Card"/></a>
-  <img src="https://skillicons.dev/icons?i=js,appwrite,github,tailwind,nodejs,php,laravel,linux,mysql,dotnet,electron,stackoverflow,svg,codepen,regex,py,bots,powershell,vscode,discord,cloudflare,nginx,arduino,cs,git,figma,markdown,jquery,express,lua,instagram,css,html&perline=7">
+  <img  width="60%" src="https://skillicons.dev/icons?i=js,appwrite,github,tailwind,nodejs,php,laravel,linux,mysql,dotnet,electron,stackoverflow,svg,codepen,regex,py,bots,powershell,vscode,discord,cloudflare,nginx,arduino,cs,git,figma,markdown,jquery,express,lua,instagram,css,html&perline=7">
   </div>
