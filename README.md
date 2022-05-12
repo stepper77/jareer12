@@ -16,8 +16,8 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;
     <div width="20%">
-      &nbsp;&nbsp;<small>(Jeffery)</small><img src="https://user-images.githubusercontent.com/57962439/168013424-5efbada5-9afa-4e98-8752-30d4bdc69a79.png" />
-      &nbsp;&nbsp;<small>(Jeffery)</small><img src="https://user-images.githubusercontent.com/57962439/168016690-23932344-b8ad-4c89-ad45-bd259226e7d8.png" />
+      &nbsp;&nbsp;<small>(Jeffery)</small><img width="20%" src="https://user-images.githubusercontent.com/57962439/168013424-5efbada5-9afa-4e98-8752-30d4bdc69a79.png" />
+      &nbsp;&nbsp;<small>(Jeffery)</small><img width="20%" src="https://user-images.githubusercontent.com/57962439/168016690-23932344-b8ad-4c89-ad45-bd259226e7d8.png" />
     </div>
   </div>
 </div>
