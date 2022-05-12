@@ -10,8 +10,6 @@
 
 Adonis gets a lot of respect from his tribe, Adonis learns new languages, explores new frameworks and libraries, Adonis knows that a good portfolio will help him land a good job. Adonis thrives to be a better developer, 
   </p>
-  <img>
 a picture of Jeffery*
 ![image](https://user-images.githubusercontent.com/57962439/168013424-5efbada5-9afa-4e98-8752-30d4bdc69a79.png)
-</img>
 </div>
