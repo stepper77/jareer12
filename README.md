@@ -3,13 +3,20 @@
 </p>
 
 <div>
-  Jeffery puts a ton of images on his github repo thinking he will get more followers, Jeffery is the type of programmer who codes for clout, he goes through other developer's profile just to see how they are doing, Jeffery is a victim of Imposter syndrome, "*but.. but.. more likes means I'm a good dev*". The moment Jeffery gets free time he starts working on another shity project. No one likes to hire Jeffery because of his attitude. Jeffery is the kind of dev who tells everyone on Discord about how good of a dev he is, while the only language he knows is Javascript, Jeffery never tries to learn new programming languages.
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+      Jeffery puts a ton of images on his github repo thinking he will get more followers, Jeffery is the type of programmer who codes for clout, he goes through other developer's profile just to see how they are doing, Jeffery is a victim of Imposter syndrome, "*but.. but.. more likes means I'm a good dev*". The moment Jeffery gets free time he starts working on another shity project. No one likes to hire Jeffery because of his attitude. Jeffery is the kind of dev who tells everyone on Discord about how good of a dev he is, while the only language he knows is Javascript, Jeffery never tries to learn new programming languages.
 
 ### **Adonis**
 
 Adonis gets a lot of respect from his tribe, Adonis learns new languages, explores new frameworks and libraries, Adonis knows that a good portfolio will help him land a good job. Adonis thrives to be a better developer,
 
+<div>
 (A picture of Jeffery\*)
 ![image](https://user-images.githubusercontent.com/57962439/168013424-5efbada5-9afa-4e98-8752-30d4bdc69a79.png)
+</div>
 
+</div>
 </div>
